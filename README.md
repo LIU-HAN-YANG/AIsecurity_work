@@ -6,6 +6,8 @@ Deep learning 深度學習必讀 - Keras 大神帶你用 Python 實作 (Deep Lea
 tf.keras 技術者們必讀！深度學習攻略手冊
 GAN 對抗式生成網路 (GANs in Action: Deep learning with Generative Adversarial Networks)
 
+https://github.com/MyFirstSecurity2020/20200820/tree/master/Python
+
 ```
 
 ```
@@ -19,4 +21,8 @@ GAN 對抗式生成網路
 ```
 IOT security
 區塊鏈安全(blockchain security)
+HITCON zeroday
+```
+```
+Google Cloud Platform 
 ```
