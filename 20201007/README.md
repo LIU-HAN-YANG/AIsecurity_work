@@ -22,6 +22,11 @@ https://www.manning.com/books/data-science-bookcamp
 
 ```
 
+#
+```
+
+```
+
 # Building matrices(建立矩陣)
 ```
 diag(v[, k])
